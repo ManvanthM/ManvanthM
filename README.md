@@ -15,20 +15,6 @@
 
 ---
 
-## 🎯 Engineering Profile
-
-<table>
-<tr>
-<td align="center" width="33%"><strong>85.90%</strong><br>Churn Model Accuracy</td>
-<td align="center" width="33%"><strong>92.25%</strong><br>Churn Model AUC</td>
-<td align="center" width="34%"><strong>4+</strong><br>Featured Projects</td>
-</tr>
-</table>
-
-> Full-stack and applied-ML developer focused on building complete, data-driven systems across **web applications, backend services, analytics, machine learning and automation**.
-
----
-
 # 🚀 Featured Work
 
 ## 🧠 Telecom Churn Prediction & Explainable ML Platform
@@ -103,22 +89,38 @@ ML/application work focused on identifying musical swaras from audio-related inp
 
 # 💼 Real-World Development
 
-### 🏛️ The National Institute of Engineering, Mysore
-**Full-Stack Developer — R&D Publication Management Platform**
+## 🏛️ The National Institute of Engineering, Mysore
 
-Designed and developed an institute-wide publication management system using **Python (Flask) and MySQL**.
+### R&D Publication Management Platform
+**Role: Freelance Full-Stack Developer**
 
-`Article submission` · `Multi-author metadata` · `DOI detection` · `Duplicate detection` · `Review workflow` · `Audit history` · `Notifications` · `KPIs` · `Excel/CSV exports` · `CSRF protection` · `Role-based access`
+Designed and developed an institute-wide publication management platform using **Python (Flask) and MySQL**.
 
-### 🌐 ICSTSI 2026 — International Research Conference
-**Frontend Developer**
+`Article submission` · `Multi-author metadata` · `DOI detection` · `Duplicate detection` · `Review workflow` · `Audit history` · `Notifications` · `Department KPIs` · `Excel/CSV exports` · `CSRF protection` · `Role-based access`
 
-Led development of the official conference website using **React, TypeScript and Tailwind CSS**, from site structure and implementation through testing and deployment.
+🌐 **[Visit the live project →](https://research.nie.ac.in)**
 
-### 💻 Infinity Global Services
-**Freelance Web Developer**
+---
 
-Built and deployed a responsive company website from scratch, owning the project lifecycle from design and frontend implementation through deployment.
+## 🌐 ICSTSI 2026 — International Research Conference
+
+### Official Conference Website
+**Role: Freelance Frontend Developer**
+
+Led development of the official conference website using **React, TypeScript and Tailwind CSS**, from site structure and content planning through implementation, testing and deployment.
+
+🌐 **[Visit the live project →](https://icstsi.nie.ac.in)**
+
+---
+
+## 💻 Infinity Global Services
+
+### Company Website
+**Role: Freelance Web Developer**
+
+Built a complete responsive company website from scratch, handling design, frontend implementation, responsive behavior and deployment across the full project lifecycle.
+
+🌐 **[Visit the live project →](https://www.infinityglobalservices.in)**
 
 ---
 
@@ -175,6 +177,12 @@ Built and deployed a responsive company website from scratch, owning the project
 ```
 
 I focus on **complete systems**, not isolated code samples: user experience, backend logic, data layer, security, analytics and deployment working together.
+
+---
+
+# 📜 Certification
+
+**Google AI Essentials** — Google / Coursera
 
 ---
 
