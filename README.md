@@ -19,14 +19,13 @@
 
 <table>
 <tr>
-<td align="center" width="25%"><strong>9.68</strong><br>MCA CGPA</td>
-<td align="center" width="25%"><strong>85.90%</strong><br>Churn Model Accuracy</td>
-<td align="center" width="25%"><strong>92.25%</strong><br>Churn Model AUC</td>
-<td align="center" width="25%"><strong>4+</strong><br>Featured Projects</td>
+<td align="center" width="33%"><strong>85.90%</strong><br>Churn Model Accuracy</td>
+<td align="center" width="33%"><strong>92.25%</strong><br>Churn Model AUC</td>
+<td align="center" width="34%"><strong>4+</strong><br>Featured Projects</td>
 </tr>
 </table>
 
-> MCA graduate with hands-on experience across **full-stack development, machine learning, analytics and client/institutional software delivery**.
+> Full-stack and applied-ML developer focused on building complete, data-driven systems across **web applications, backend services, analytics, machine learning and automation**.
 
 ---
 
@@ -175,20 +174,7 @@ Built and deployed a responsive company website from scratch, owning the project
 └──────────────────────┘
 ```
 
-I focus on **complete systems**, not isolated code samples: user experience, backend logic, data layer, security, analytics and deployment all working together.
-
----
-
-# 🎓 Education
-
-**Master of Computer Applications (MCA)**  
-The National Institute of Engineering, Mysore · **9.68 / 10 CGPA**
-
-**Bachelor of Computer Applications (BCA)**  
-Yuvaraja's College (Autonomous), Mysore · **9.12 / 10 CGPA**
-
-### Certification
-**Google AI Essentials** — Google / Coursera
+I focus on **complete systems**, not isolated code samples: user experience, backend logic, data layer, security, analytics and deployment working together.
 
 ---
 
